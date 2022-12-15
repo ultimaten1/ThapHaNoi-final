@@ -1,0 +1,11 @@
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\bin\Debug\ThapHaNoifinal.exe.config
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\bin\Debug\ThapHaNoifinal.exe
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\bin\Debug\ThapHaNoifinal.pdb
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\obj\Debug\ThapHaNoifinal.csproj.AssemblyReference.cache
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\obj\Debug\ThapHaNoifinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\obj\Debug\ThapHaNoifinal.Properties.Resources.resources
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\obj\Debug\ThapHaNoifinal.csproj.GenerateResource.cache
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\obj\Debug\ThapHaNoifinal.csproj.CoreCompileInputs.cache
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\obj\Debug\ThapHaNoifinal.exe
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\obj\Debug\ThapHaNoifinal.pdb
+C:\Users\tranc\Desktop\DoAn\ThapHaNoifinal\obj\Debug\ThapHaNoifinal.formTHNf.resources
